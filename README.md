@@ -1,7 +1,7 @@
 # Sikora Collective
 
 ## What We Do
-Sikora Collective builds and manages websites featuring engaging content about travel, experiences, and interesting places.
+Sikora Collective builds, operates, and manages websites featuring engaging content about travel, experiences, and interesting places.
 
 ## Our Sites
 Sikora Collective owns and operates the following sites:
