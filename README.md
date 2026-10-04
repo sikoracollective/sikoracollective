@@ -9,4 +9,4 @@ Sikora Collective owns and operates the following sites:
 - [WhereDoITakeMyParents.com](https://wheredoitakemyparents.com/)
 
 ## Contact Information
-If you would like to contact Sikora Collective, email us [hey@SikoraCollective.com](mailto:hey@SikoraCollective.com).
+If you would like to contact Sikora Collective, email us at [hey@SikoraCollective.com](mailto:hey@SikoraCollective.com).
