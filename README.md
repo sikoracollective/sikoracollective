@@ -1,4 +1,4 @@
-<img src="indonesianSculpture-01.jpg" alt="Indonesian sculpture" width="100%">
+<img src="images/indonesianSculpture-01.jpg" alt="Indonesian sculpture" width="100%">
 
 # Sikora Collective
 
