@@ -1,5 +1,3 @@
-<img src="images/indonesianSculpture-01.jpg" alt="Indonesian sculpture" width="100%">
-
 # Sikora Collective
 
 ## What We Do
