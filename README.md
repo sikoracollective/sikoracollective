@@ -11,6 +11,4 @@ Sikora Collective owns and operates the following sites:
 - [WhereDoITakeMyParents.com](https://wheredoitakemyparents.com/)
 
 ## Contact Information
-If you would like to contact Sikora Collective, email us at [hey@SikoraCollective.com](mailto:hey@SikoraCollective.com).
-
-<img src="images/wetMussels-01.jpg" alt="California mussels" width="100%">
+To contact Sikora Collective, email us at [hey@SikoraCollective.com](mailto:hey@SikoraCollective.com).
